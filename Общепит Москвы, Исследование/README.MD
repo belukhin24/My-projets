@@ -29,6 +29,8 @@
   python -m pip install -U matplotlib
 
   pip install seaborn
+  
+  pip install plotly
 
   pip install scipy
   
