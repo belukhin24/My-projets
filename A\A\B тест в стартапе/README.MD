@@ -20,3 +20,15 @@
 ***
 
 ## Необходимые библиотеки:
+  ```
+  pip install pandas
+
+  python -m pip install -U pip
+  python -m pip install -U matplotlib
+
+  pip install seaborn
+  
+  pip install plotly
+
+  pip install scipy
+  ```
