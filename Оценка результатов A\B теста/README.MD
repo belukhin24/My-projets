@@ -56,3 +56,6 @@
   pip install plotly
 
   pip install scipy
+  
+  pip install requests
+  ```
