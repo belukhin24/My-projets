@@ -46,7 +46,7 @@
 ## Необходимые библиотеки:
 
 ```
-  pip instell pandas
+  pip install pandas
   
   pip install sqlalchemy
   
